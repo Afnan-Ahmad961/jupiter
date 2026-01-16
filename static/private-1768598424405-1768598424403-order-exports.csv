@@ -1,0 +1,2 @@
+Order_ID,Display_ID,Order status,Date,Customer First name,Customer Last name,Customer Email,Customer ID,Shipping Address 1,Shipping Address 2,Shipping Country Code,Shipping City,Shipping Postal Code,Shipping Region ID,Fulfillment Status,Payment Status,Subtotal,Shipping Total,Discount Total,Tax Total,Total,Currency Code
+order_01KF4A1PNJW01Q078EEFZJ47PE,1,pending,2026-01-16T21:05:43.608Z,Afnan,Ahmad,afnanahmad3338@gmail.com,cus_01KERY0TBBZA15ZQB4V0R1HNG1,,,,,,reg_01KEVWYEJ9GGQSEX9TZBY043S6,delivered,captured,1800,200,0,0,1800,pkr
